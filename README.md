@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prajkta Waghmare
 
-💻 Software Engineer | Python | Data Analysis | Backend Development
+💻 Software Engineer | Python | Data Analysis | Backend Developer
 📍 Pune, India
 
 ## 🚀 About Me
